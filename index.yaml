@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-15T09:28:43.873828177Z"
+    description: A Helm chart for Kubernetes
+    digest: 83abbe9657337fb24228d9d57d58ffda1fdae503c55bfd6eaef5456d0a52ab35
+    name: test-app
+    type: application
+    urls:
+    - https://github.com/DennisvG/dg-helm-repo/releases/download/test-app-0.1.1/test-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-02-15T09:28:43.873834377Z"

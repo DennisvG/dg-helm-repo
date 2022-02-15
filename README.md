@@ -1,4 +1,9 @@
 # dg-helm-repo
+## Add new Charts
+Create new helm chart in **main** branch under /charts with for example
+    helm create app-name
+Push this to main branch and **Release** action is running to create a package and updating index.yaml file
+
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts.  Please refer to
